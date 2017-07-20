@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="zss"
+  id="myeclipse.1500538473040"
+  context-root="/zss"
+  j2ee-spec="5.0"
+  archive="zss.war">
+  <attributes>
+    <attribute name="webrootdir" value="WebRoot" />
+  </attributes>
+</project-module>
+
